@@ -35,3 +35,7 @@ This won't spoil much of the game, mostly just getting comftorable with the cont
 5. **Open it up** - With it placed down, stand next to the crafting bench and open inventory. You will now see many more options for crafting.
 
 6. **Explore the Crafting** - There's your tutorial. Now get playing! Note that later in the game item tubes get introduced and they can be a little confusing so definitely read the descriptions.
+
+
+# TODO(matt):
+1. Get this Factorio mod working too https://mods.factorio.com/mod/dump-map
