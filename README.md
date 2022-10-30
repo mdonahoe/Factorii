@@ -39,3 +39,4 @@ This won't spoil much of the game, mostly just getting comftorable with the cont
 
 # TODO(matt):
 1. Get this Factorio mod working too https://mods.factorio.com/mod/dump-map
+2. Be able to go from Factorio to ASCII and back.
